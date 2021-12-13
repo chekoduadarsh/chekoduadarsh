@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I am Adarsh 👋
+
+
+
+💻 A self-motivated tech enthusiast and Data Analyst. I do Opensource 📖
+
+
 
 <!--
 **chekoduadarsh/chekoduadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
