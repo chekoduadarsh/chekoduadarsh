@@ -4,7 +4,7 @@
 
 💻 A self-motivated tech enthusiast and Data Analyst. I do Opensource 📖
 
-
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical)
 
 <!--
 **chekoduadarsh/chekoduadarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
