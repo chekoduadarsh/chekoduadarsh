@@ -2,7 +2,12 @@
 
 
 
-💻 A self-motivated tech enthusiast and Data Analyst. I do Opensource 📖
+💻 A self-motivated tech enthusiast and Data Analyst. I do opensource 📖
+
+🔭 I’m currently working on Machine Learning, Flutter and other cool stuffs 🆒
+
+☣️ Available for Freelance projects/internship opportunities.
+
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical)
 
