@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on Machine Learning, Flutter and other cool stuffs 🆒
 
-☣️ Available for Freelance projects/internship opportunities.
+☣️ Available for Freelance projects/job opportunities.
 
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical)
