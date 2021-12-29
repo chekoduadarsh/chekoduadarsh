@@ -1,12 +1,12 @@
 ### Hi there, I am Adarsh 👋
 
 
-
 💻 A self-motivated tech enthusiast and Data Analyst. I do opensource 📖
 
 🔭 I’m currently working on Machine Learning, Flutter and other cool stuffs 🆒
 
 ☣️ Available for Freelance projects/job opportunities.
+
 
 
 ### :hammer_and_wrench:  Languages and Tools
