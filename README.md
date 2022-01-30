@@ -3,6 +3,8 @@
 
 💻 A self-motivated tech enthusiast and Data Analyst. I do opensource 📖
 
+🧠 I love building AI solutions
+
 🔭 I’m currently working on Machine Learning, Flutter and other cool stuffs 🆒
 
 ☣️ Available for Freelance projects/job opportunities.
@@ -48,4 +50,4 @@
 
 ![Adarsh's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chekoduadarsh&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
-**101010**
+
