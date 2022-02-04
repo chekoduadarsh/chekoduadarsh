@@ -47,7 +47,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical)
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chekoduadarsh&layout=compact&theme=dark)
 
 ![Adarsh's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chekoduadarsh&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
 
