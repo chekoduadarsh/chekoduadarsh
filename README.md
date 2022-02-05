@@ -4,8 +4,9 @@
 <a href="https://www.linkedin.com/in/adarsh-chekodu/">
   <img align="left" alt="Adarsh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</br>
 
-
+</br>
 💻 A self-motivated tech enthusiast and Data Analyst. I do opensource 📖
 
 🧠 I love building AI solutions
