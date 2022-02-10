@@ -65,5 +65,3 @@
 🤖: what is the answer for everything ❓
 
 :ninja:: 101010
-
-
