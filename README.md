@@ -2,14 +2,30 @@
 
 
 <a href="https://www.linkedin.com/in/adarsh-chekodu/">
-  <img align="left" alt="Adarsh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Adarsh's LinkedIN" width="30px"  src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
 </a>
-</br>
+
+
+<a href="mailto: chekodu.adarsh@gmail.com">
+  <img align="left" alt="Adarsh's Email" width="30px"  src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/>
+</a>
 
 </br>
 
+<img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="230">
 
-💻 A self-motivated tech enthusiast and Data Analyst. I do opensource 📖
+</br>
+
+**Who Am I: 🥷**
+
+Software Enginner at ![Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/)  <img src="https://media3.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="50px">
+
+I am a Software Enginner with 2+ years of industry experience. 
+
+I mainly work on Machine Learning/Deep Learning and other AI technologies.
+
+
+💻 A self-motivated tech enthusiast and Data Analyst. i.e., I do opensource 📖
 
 🧠 I love building AI solutions
 
