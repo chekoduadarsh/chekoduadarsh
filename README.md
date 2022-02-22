@@ -72,7 +72,6 @@ I mainly work on Machine Learning/Deep Learning and other AI technologies.
 
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chekoduadarsh&layout=compact&theme=dark)
 
 
