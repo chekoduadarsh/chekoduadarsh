@@ -34,8 +34,6 @@ I mainly work on Machine Learning/Deep Learning and other AI technologies.
 ☣️ Available for Freelance projects/job opportunities.
 
 
-
-
 ### :hammer_and_wrench:  Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
