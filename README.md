@@ -33,6 +33,7 @@ I mainly work on Machine Learning/Deep Learning and other AI technologies.
 
 ☣️ Available for Freelance projects/job opportunities.
 
+📧 Contact me at: [chekodu.adarsh@gmail.com](mailto:chekodu.adarsh@gmail.com)
 
 ### :hammer_and_wrench:  Languages and Tools
 
