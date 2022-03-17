@@ -71,7 +71,7 @@ I mainly work on Machine Learning/Deep Learning and other AI technologies.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical) 
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chekoduadarsh&show_icons=true&theme=radical&include_all_commits=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chekoduadarsh&layout=compact&theme=dark)
 
 
