@@ -19,9 +19,10 @@
 
 **Who Am I: 🥷**
 
-Software Enginner at ![Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/)  <img src="https://media3.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="50px">
+Software Engineer at ![Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/)  <img src="https://media3.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="50px">
 
-I am a Software Engineer with 2+ years of industry experience. 
+I am a Software 
+with 2+ years of industry experience. 
 
 I mainly work on Machine Learning/Deep Learning and other AI technologies.
 
