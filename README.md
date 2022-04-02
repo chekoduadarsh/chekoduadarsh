@@ -114,4 +114,6 @@ I mainly work on Machine Learning/Deep Learning and other AI technologies.
 
 </div>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chekoduadarsh)
+
 **101010**
