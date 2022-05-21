@@ -12,9 +12,9 @@
 </a>
 
 </br>
-
+<div id="laptop" align="center">
 <img align='right' src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="230">
-
+</div>
 </br>
 
 **Who Am I: 🥷**
