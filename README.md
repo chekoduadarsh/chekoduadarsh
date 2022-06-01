@@ -1,14 +1,14 @@
 
-<a href="https://chekoduadarsh.github.io/"  target="_blank"><h1 align="center"> Hi there, I am Adarsh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<a href="https://chekoduadarsh.github.io/"  target="_blank"><h1 align="center"> Hi there, I am Adarsh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h1>
 
 
 <a href="https://www.linkedin.com/in/adarsh-chekodu/">
-  <img align="left" alt="Adarsh's LinkedIN" width="30px"  src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
+  <img align="left" alt="Adarsh's LinkedIN" width="30"  src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>
 </a>
 
 
 <a href="mailto: chekodu.adarsh@gmail.com">
-  <img align="left" alt="Adarsh's Email" width="30px"  src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/>
+  <img align="left" alt="Adarsh's Email" width="30"  src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/>
 </a>
 
 </br>
@@ -19,7 +19,7 @@
 
 **Who Am I: 🥷**
 
-Software Engineer at ![Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/)  <img src="https://media3.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="50px">
+Software Engineer at ![Bosch Global Software Technologies](https://www.bosch-softwaretechnologies.com/en/)  <img src="https://media3.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="50">
 
 I am a Software 
 with 2+ years of industry experience. 
