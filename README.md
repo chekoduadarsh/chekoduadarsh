@@ -24,7 +24,7 @@ Software Engineer at ![Bosch Global Software Technologies](https://www.bosch-sof
 I am a Software 
 with 2+ years of industry experience. 
 
-I mainly work on Machine Learning/Deep Learning and other AI technologies.
+I work on Machine Learning/Deep Learning and other AI technologies.
 
 
 💻 A self-motivated tech enthusiast and Data Analyst. i.e., I do opensource 📖
