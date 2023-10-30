@@ -19,9 +19,6 @@
 
 **Who Am I: 🥷**
 
-
-I am Mastering Data Analytics at University of College Dublin
-
 I work on Machine Learning/Deep Learning and other AI technologies.
 
 
