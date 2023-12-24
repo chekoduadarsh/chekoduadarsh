@@ -101,7 +101,7 @@ I work on Machine Learning/Deep Learning and other AI technologies.
     </ul>
     </br>
     <p>
-        <img id="stat-left" src="https://github-readme-stats.vercel.app/api?username=chekoduadarsh&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true"
+        <img id="stat-left" src="https://github-readme-stats.vercel.app/api?username=chekoduadarsh&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;rank_icon=github"
             alt="Adarsh&#39;s GitHub stats"> </br>
         <img id="stat-left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekoduadarsh&layout=compact&theme=dark"
             alt="Adarsh&#39;s GitHub stats"> </br>
