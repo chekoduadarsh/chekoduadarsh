@@ -105,10 +105,10 @@ I work on Machine Learning/Deep Learning and other AI technologies.
             alt="Adarsh&#39;s GitHub stats"> </br>
         <img id="stat-left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chekoduadarsh&layout=compact&theme=dark"
             alt="Adarsh&#39;s GitHub stats"> </br>
-   </p>
-
-</div>
+        <b>101010</b>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/chekoduadarsh)
 
-**101010**
+   </p>
+
+</div>
